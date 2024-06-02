@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zp4a4xmhFVzLuV4e99XdNoxAipK66SArtr2E4h1yWI0j7roJX6HHANLRdTPUus3/y949qN20B6sAEvML5JypdQ==",
+  "dgSpecHash": "mEROoAy05t7NU197Grqt1idxKcaGVnvW2qp9iYejEAs6vQoCkYXa/mbGCJio/NUL0UUUnEeIcX6QQId9xqVKeQ==",
   "success": true,
   "projectFilePath": "D:\\שיעורי בית\\practycum project\\Employee.Net\\Employee.Api\\Employee.Api.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
